@@ -79,8 +79,7 @@ This project demonstrates the application of Natural Language Processing (NLP) f
 ## Repository Contents
 
 - `sentiment_analysis.ipynb`
-- `Reviews.csv`
-- `README.md`
+
 
 ---
 
